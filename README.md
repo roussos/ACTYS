@@ -12,6 +12,6 @@ Dr. Dimitrios Alexakis, Institute for Mediterranean Studies (IMS), FORTH
 
 Dr. Anastasios Roussos, Institute of Computer Science (ICS), FORTH
 
-## Postdoctoral researcher: 
+### Postdoctoral researcher: 
 
 Dr. Evangelos Alevizos
